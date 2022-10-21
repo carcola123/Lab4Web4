@@ -1,2 +1,7 @@
 # Lab4Web4
-Pertemuan ke 5
+## belajar
+
+### membuat profil
+langkah awal ini
+ini adalah contoh syntax-nya
+![Gambar_1]{png/pemogramana web lab4 stab 1.png}
